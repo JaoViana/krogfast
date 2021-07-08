@@ -1,7 +1,7 @@
 ### Olá, me chamo João 👋
 Sou analista de qualidade (QA) e trabalho na área desde 2020, estudante de engenharia mecânica e logo iniciarei minha pós-graduação em engenharia de Software.
 Atualmente, trabalho na Compasso UOL no time de QA.
-
+Aqui você pode encontrar algumas das minhas automações (principalmente Cypress) e restassured.
 <!--
 **krogfast/krogfast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
