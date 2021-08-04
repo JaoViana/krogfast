@@ -1,4 +1,4 @@
-### Olá, me chamo João 👋
+### Olá e seja muito bem vindo! Me chamo João 🖖
 Sou analista de qualidade (QA) e trabalho na área desde 2020, estudante de engenharia mecânica e logo iniciarei minha pós-graduação em engenharia de Software.
 Atualmente, trabalho na Compasso UOL no time de QA.
 
